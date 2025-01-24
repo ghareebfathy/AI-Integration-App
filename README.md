@@ -25,3 +25,7 @@ A cross-platform application providing unified interface for multiple AI APIs wi
 - COHERE_API_KEY=your_key_here
 - CLAUDE_API_KEY=your_key_here
 - REPLICATE_API_KEY=your_key_here
+
+
+##Find your API key and put it inside your app.
+## The app will be updated in the coming days.
