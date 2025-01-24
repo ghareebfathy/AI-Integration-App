@@ -4,6 +4,7 @@
 
 A cross-platform application providing unified interface for multiple AI APIs with GUI.
 
+
 ## Features
 - Support for 6 AI providers (Gemini, OpenAI, HuggingFace, Cohere, Claude, Replicate)
 - Secure API key management
@@ -27,5 +28,6 @@ A cross-platform application providing unified interface for multiple AI APIs wi
 - REPLICATE_API_KEY=your_key_here
 
 
-##Find your API key and put it inside your app.
+## Find your API key and put it inside your app.
 ## The app will be updated in the coming days.
+
