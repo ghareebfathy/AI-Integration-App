@@ -1,0 +1,8 @@
+flet>=0.21.2
+python-dotenv>=1.0.0
+google-generativeai>=0.3.2
+openai>=1.12.0
+requests>=2.31.0
+cohere>=4.39
+anthropic>=0.19.3
+replicate>=0.24.0
